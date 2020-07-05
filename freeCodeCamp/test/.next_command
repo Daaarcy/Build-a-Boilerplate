@@ -362,3 +362,4 @@ ls --color=auto
 __vsc_prompt_cmd_original
 mv websiite website-boilerplate
 mv website website-boilerplate
+ls --color=auto
