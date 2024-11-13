@@ -281,3 +281,5 @@ mv footer.jpeg ./client/assets/images
 mv ./imagesfooter.jpeg ./client/assets/images
 mv ./images/footer.jpeg ./client/assets/images
 find
+redir ./images
+rmdir ./images
