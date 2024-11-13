@@ -283,3 +283,6 @@ mv ./images/footer.jpeg ./client/assets/images
 find
 redir ./images
 rmdir ./images
+rm ./images/background/jpg
+rm ./images/background/jpg
+rm ./images/background.jpg
