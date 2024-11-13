@@ -144,3 +144,5 @@ cd freeCodeCamp
 pwd
 la
 ls --color=auto
+cd text
+cd test
