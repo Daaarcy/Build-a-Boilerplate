@@ -148,3 +148,4 @@ cd text
 cd test
 ls --color=auto
 pwd
+ls --color=auto
