@@ -176,3 +176,7 @@ cd ..
 cd ../..
 ls --color=auto
 clear
+mkdir project
+ls --color=auto
+rm project
+mkdir website
