@@ -180,3 +180,4 @@ mkdir project
 ls --color=auto
 rm project
 mkdir website
+ls --color=auto
