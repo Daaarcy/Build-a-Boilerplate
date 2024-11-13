@@ -303,3 +303,4 @@ find client/assets/fonts
 touch client/assets/fonts/lato.ttf
 rm client/assets/fonts/lato.ttf
 touch client/assets/fonts/lato-bold.ttf
+touch client/assets/fonts/lato-light.ttf
